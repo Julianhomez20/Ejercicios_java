@@ -53,6 +53,7 @@ public class Principal {
                 double perimetroTriangulo = triangulo.getPerimetro();
                 System.out.println("Area del triangulo: " + areaTriangulo);
                 System.out.println("Perimetro del triangulo: " + perimetroTriangulo);
+                break;
             default:
                 System.out.println("Elija una opción valida");
         }
